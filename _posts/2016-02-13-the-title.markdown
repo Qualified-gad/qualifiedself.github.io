@@ -1,0 +1,26 @@
+---
+published: true
+title: The Title
+layout: post
+---
+I use the word "qualified" in two senses:
+
+1. Behind all data lies a *qualitative* human experience.
+2. Every person is *qualified* to live well.
+
+> Not everything that can be counted counts, and not everything that counts can be counted. 
+>
+>--- William Bruce Cameron
+
+> We are always getting ready to live but never living. 
+>
+>--- Ralph Waldo Emerson
+
+> This is the very perfection of a man, to find out his own imperfection. 
+>
+>--- St. Augustine
+
+It's an obvious play on the blog [Quantified Self](http://quantifiedself.com).
+
+
+
