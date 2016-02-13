@@ -1,0 +1,6 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://qualifiedself.github.io
+title: qualifiedself
+paginate: 1
