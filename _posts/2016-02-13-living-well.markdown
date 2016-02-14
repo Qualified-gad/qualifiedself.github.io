@@ -10,10 +10,11 @@ One spends time well by choosing the activities that give her the greatest joy i
 I find joy in these particular actions:
 
 1. playing
-2. moving
-3. learning
-4. creating
-5. eating
-6. giving
-7. resting
+1. moving
+1. learning
+1. giving
+1. resting
+1. creating
+1. eating
 
+I try to thoughtfully engage in each of these actions every day.
